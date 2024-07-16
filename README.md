@@ -27,6 +27,10 @@ data remove storage tedb:io player
 # erase data by saving empty player.data
 ```mcfunction
 function tedb:api/get
+```
+```mcfunction
 data remove storage tedb:io player.data.CustomData
+```
+```mcfunction
 function tedb:api/save
 ```
