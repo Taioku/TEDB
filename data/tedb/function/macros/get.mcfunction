@@ -1,0 +1,2 @@
+#$execute unless data storage tedb:main players[{UUID:$(UUID)}] run data modify storage tedb:main players append value {UUID:$(UUID)}
+$data modify storage tedb:io player.data set from storage tedb:main players[{UUID:$(UUID)}].data

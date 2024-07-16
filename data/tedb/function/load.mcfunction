@@ -1,0 +1,1 @@
+scoreboard players set $TEDB load.status 1

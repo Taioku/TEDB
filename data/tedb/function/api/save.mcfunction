@@ -1,0 +1,1 @@
+function tedb:macros/save with storage tedb:io player

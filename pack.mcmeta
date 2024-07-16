@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": [{"text":"B","bold":true,"color":"light_purple"},{"text":"y ","bold":true,"color":"#e25afe"},{"text":"T","bold":true,"color":"#c775fe"},{"text":"a","bold":true,"color":"#ac90fe"},{"text":"i","bold":true,"color":"#90acfe"},{"text":"o","bold":true,"color":"#75c7fe"},{"text":"k","bold":true,"color":"#5ae2fe"},{"text":"u","bold":true,"color":"aqua"}]
+	}
+}
